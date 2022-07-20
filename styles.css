@@ -1,1 +1,73 @@
-/* Write your CSS here! */
+html {
+    background-color: paleturquoise;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+header h1 {
+font-style: oblique;
+font-size: 5em;
+color: navy;
+text-align: center;
+
+}
+
+ul {
+    display: block;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin-right: 1em;
+    font-size: 2.25em;
+    font-style: oblique;
+    padding-bottom: 4em;
+}
+
+h2 {
+    font-size: 2em;
+    text-align: center;
+    font-style: oblique;
+}
+
+p {
+    text-align: center;
+    font-style: oblique;
+    font-size: 1.25em;
+}
+
+
+figure {
+    text-align: center;
+    padding-bottom: 10em;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+footer {
+    font-size: 1.5em;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph{
+    color: green;
+}
+
+
+
+
+
+
+
+
+
